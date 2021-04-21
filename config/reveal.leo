@@ -315,7 +315,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
-    &lt;p&gt; W8進度
+    &lt;h2&gt;W8進度&lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
