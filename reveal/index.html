@@ -25,68 +25,83 @@
     <!-- Any section element inside of this container is displayed as a slide -->
     <div class="slides">
         <section>
-            <a href="https://revealjs.com">
-                <img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
-            </a>
-            <h3>The HTML Presentation Framework</h3>
+            <h3>砂帶機</h3>
             <p>
-                <small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
+                <small>組員 <a href="https://40823128.github.io/cd2021/content/index.html">曾鑵斁 </a> <a href="https://40823126.github.io/cd2021/content/index.html">楊育翔</a> <a href="https://40623234-1.github.io/cd2021/content/index.html">洪一木 </a></small>
             </p>
+        </section> 
+
+        <section>
+            <h2>W6進度</h2>
+            <p>設計內容:
+            </p>由於砂帶機還需要人工操作，砂帶轉動時具危險性所以想增加夾具可以自動操作避免手直接接觸降低危險性使工作更安全。
         </section>
 
         <section>
-            <h2>Hello There</h2>
-            <p>
-                reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-            </p>
-        </section>
+            <h2>小組分工</h2>
+            <p>40823128:小組網站建立及倉儲編輯
 
-        <!-- Example of nested vertical slides -->
-        <section>
-            <section>
-                <h2>Vertical Slides</h2>
-                <p>Slides can be nested inside of each other.</p>
-                <p>Use the <em>Space</em> key to navigate through all slides.</p>
-                <br>
-                <a href="#" class="navigate-down">
-                    <img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
-                </a>
-            </section>
-            <section>
-                <h2>Basement Level 1</h2>
-                <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
-            </section>
-            <section>
-                <h2>Basement Level 2</h2>
-                <p>That's it, time to go back up.</p>
-                <br>
-                <a href="#/2">
-                    <img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow">
-                </a>
-            </section>
+            </p>  40823126:繪製solidworks零件圖
+           
         </section>
-
+          
         <section>
-            <h2>Slides</h2>
-            <p>
-                Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="https://slides.com" target="_blank">https://slides.com</a>.
-            </p>
+             <section>
+                 <h2>W7進度</h2>
+                 <p>繪製砂帶機底座
+                 </p>
+                 <img src="https://localhost:9443/images/%E7%A0%82%E5%BE%85%E6%A9%9F%E5%BA%95%E5%BA%A7%E5%B9%B3%E9%9D%A2.jpg">
+                  <p>繪製砂帶機支架
+                     </p>
+                 <img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF.jpg">
+                   <p>繪製支架滾輪孔位
+                           </p>
+                 <img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF%E5%81%9A%E5%AD%942.jpg">
+                   
+                  
+             </section>
+
+             <section>
+                  11
+             </section>
+        </section>
+        <section>
+             <section>
+                  W8進度
+             </section>
         </section>
 
         <section data-auto-animate>
-            <h2 data-id="code-title">Pretty Code</h2>
-            <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers>
+            <h2 data-id="code-title">With animations</h2>
+            <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24">
                 import React, { useState } from 'react';
 
                 function Example() {
                   const [count, setCount] = useState(0);
 
                   return (
-                    ...
+                    &lt;div&gt;
+                      &lt;p&gt;You clicked {count} times&lt;/p&gt;
+                      &lt;button onClick={() =&gt; setCount(count + 1)}&gt;
+                        Click me
+                      &lt;/button&gt;
+                    &lt;/div&gt;
+                  );
+                }
+
+                function SecondExample() {
+                  const [count, setCount] = useState(0);
+
+                  return (
+                    &lt;div&gt;
+                      &lt;p&gt;You clicked {count} times&lt;/p&gt;
+                      &lt;button onClick={() =&gt; setCount(count + 1)}&gt;
+                        Click me
+                      &lt;/button&gt;
+                    &lt;/div&gt;
                   );
                 }
             </code></pre>
-            <p>Code syntax highlighting courtesy of <a href="https://highlightjs.org/usage/">highlight.js</a>.</p>
         </section>
 
         <section data-auto-animate>

@@ -20,14 +20,18 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-</v>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
+<v t="LEO.20210421215024.1"><vh>newHeadline</vh>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="LEO.20210421215223.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421215357.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
+<v t="LEO.20210421215459.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421215634.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20200818171215.1"></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
@@ -71,6 +75,17 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="LEO.20210421215024.1">&lt;section&gt;
+     @others
+&lt;/section&gt;</t>
+<t tx="LEO.20210421215223.1">&lt;section&gt;
+     11
+&lt;/section&gt;</t>
+<t tx="LEO.20210421215357.1"></t>
+<t tx="LEO.20210421215459.1">&lt;section&gt;
+     W8進度
+&lt;/section&gt;</t>
+<t tx="LEO.20210421215634.1"></t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -208,75 +223,47 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;砂帶機&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;組員 &lt;a href="https://40823128.github.io/cd2021/content/index.html"&gt;曾鑵斁 &lt;/a&gt; &lt;a href="https://40823126.github.io/cd2021/content/index.html"&gt;楊育翔&lt;/a&gt; &lt;a href="https://40623234-1.github.io/cd2021/content/index.html"&gt;洪一木 &lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
-&lt;/section&gt;
+&lt;/section&gt; 
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;W6進度&lt;/h2&gt;
+    &lt;p&gt;設計內容:
+    &lt;/p&gt;由於砂帶機還需要人工操作，砂帶轉動時具危險性所以想增加夾具可以自動操作避免手直接接觸降低危險性使工作更安全。
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
-&lt;/section&gt;
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;小組分工&lt;/h2&gt;
+    &lt;p&gt;40823128:小組網站建立及倉儲編輯
 
+    &lt;/p&gt;  40823126:繪製solidworks零件圖
+   
+&lt;/section&gt;
+  
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+    &lt;h2&gt;W7進度&lt;/h2&gt;
+    &lt;p&gt;繪製砂帶機底座
     &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%BE%85%E6%A9%9F%E5%BA%95%E5%BA%A7%E5%B9%B3%E9%9D%A2.jpg"&gt;
+     &lt;p&gt;繪製砂帶機支架
+        &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF.jpg"&gt;
+      &lt;p&gt;繪製支架滾輪孔位
+              &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF%E5%81%9A%E5%AD%942.jpg"&gt;
+      
+     
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+<t tx="leo.20200818171138.1">&lt;section&gt;
+     @others
 &lt;/section&gt;
 
 </t>
