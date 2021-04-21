@@ -98,12 +98,12 @@
 <t tx="LEO.20210421215459.1">&lt;section&gt;
        &lt;p&gt;繪製虎鉗底座下層
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/1EBmEGF5ztt88AY8j4lKnFeKDF95Nc7Ul/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E8%99%8E%E9%89%971.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421215634.1">&lt;section&gt;
        &lt;p&gt;繪製虎鉗底座上層
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/1mc-CMEIhqYkWSK-4AzbSQTTJWnBEuRHE/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E8%99%8E%E9%89%972.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421220905.1">&lt;section&gt;
        &lt;p&gt;繪製砂帶機之滾輪
@@ -120,17 +120,17 @@
 <t tx="LEO.20210421222531.1">&lt;section&gt;
        &lt;p&gt;繪製虎鉗主動軸
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/10uw91SeX5fzFRHB2sAu_XFro0N4Aa6wA/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E8%99%8E%E9%89%974.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421222535.1">&lt;section&gt;
        &lt;p&gt;繪製虎鉗夾頭
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/1PXov1pd80ohrw_I7ALlxpyZO5ddwUIs3/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E8%99%8E%E9%89%973.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421222537.1">&lt;section&gt;
        &lt;p&gt;繪製皮帶
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/1MH-p6rQZghVHtY2D_TORytEQEzeEHRTE/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E7%9A%AE%E5%B8%B6.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421222540.1">&lt;section&gt;
        &lt;p&gt;虎鉗組合完成
@@ -140,7 +140,7 @@
 <t tx="LEO.20210421223333.1">&lt;section&gt;
        &lt;p&gt;砂帶機與虎鉗組合
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/1rgpu3a1Fz9--DwV6W5CYG-HU9kAl9JBU/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E5%BA%95%E5%BA%A7%E5%8A%A0%E8%99%8E%E9%89%97%E5%8A%A0%E6%BB%BE%E8%BC%AA%E5%8A%A0%E7%9A%AE%E5%B8%B6.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
