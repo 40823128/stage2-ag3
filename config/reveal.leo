@@ -135,7 +135,7 @@
 <t tx="LEO.20210421222540.1">&lt;section&gt;
        &lt;p&gt;虎鉗組合完成
               &lt;/p&gt;
-    &lt;img src="https://drive.google.com/file/d/1oi5QOt29WlMoLJq-A3zXXA89hLo_sOj5/view?usp=preview"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E8%99%8E%E9%89%97.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421223333.1">&lt;section&gt;
        &lt;p&gt;砂帶機與虎鉗組合
