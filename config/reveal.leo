@@ -25,10 +25,17 @@
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="LEO.20210421215223.1"><vh>newHeadline</vh></v>
 <v t="LEO.20210421215357.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421220905.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421221016.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="LEO.20210421215459.1"><vh>newHeadline</vh></v>
 <v t="LEO.20210421215634.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421222531.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421222535.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421222540.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421222537.1"><vh>newHeadline</vh></v>
+<v t="LEO.20210421223333.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171215.1"></v>
@@ -79,13 +86,62 @@
      @others
 &lt;/section&gt;</t>
 <t tx="LEO.20210421215223.1">&lt;section&gt;
-     11
+       &lt;p&gt;繪製砂帶機支架
+        &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF.jpg"&gt;
 &lt;/section&gt;</t>
-<t tx="LEO.20210421215357.1"></t>
+<t tx="LEO.20210421215357.1">&lt;section&gt;
+       &lt;p&gt;繪製支架滾輪孔位
+              &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF%E5%81%9A%E5%AD%942.jpg"&gt;
+&lt;/section&gt;</t>
 <t tx="LEO.20210421215459.1">&lt;section&gt;
-     W8進度
+       &lt;p&gt;繪製虎鉗底座下層
+              &lt;/p&gt;
+    &lt;img src=https://drive.google.com/file/d/1EBmEGF5ztt88AY8j4lKnFeKDF95Nc7Ul/view?usp=sharing"&gt;
 &lt;/section&gt;</t>
-<t tx="LEO.20210421215634.1"></t>
+<t tx="LEO.20210421215634.1">&lt;section&gt;
+       &lt;p&gt;繪製虎鉗底座上層
+              &lt;/p&gt;
+    &lt;img src="https://drive.google.com/file/d/1mc-CMEIhqYkWSK-4AzbSQTTJWnBEuRHE/view?usp=sharing"&gt;
+&lt;/section&gt;</t>
+<t tx="LEO.20210421220905.1">&lt;section&gt;
+       &lt;p&gt;繪製砂帶機之滾輪
+    &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E6%BB%BE%E8%BC%AA.jpg"&gt;
+  
+&lt;/section&gt;</t>
+<t tx="LEO.20210421221016.1">&lt;section&gt;
+       &lt;p&gt;砂帶機支架完成
+    &lt;/p&gt;
+    &lt;img src="https://localhost:9443/images/2.0.jpg"&gt;
+  
+&lt;/section&gt;</t>
+<t tx="LEO.20210421222531.1">&lt;section&gt;
+       &lt;p&gt;繪製虎鉗主動軸
+              &lt;/p&gt;
+    &lt;img src="https://drive.google.com/file/d/10uw91SeX5fzFRHB2sAu_XFro0N4Aa6wA/view?usp=sharing"&gt;
+&lt;/section&gt;</t>
+<t tx="LEO.20210421222535.1">&lt;section&gt;
+       &lt;p&gt;繪製虎鉗夾頭
+              &lt;/p&gt;
+    &lt;img src="https://drive.google.com/file/d/1PXov1pd80ohrw_I7ALlxpyZO5ddwUIs3/view?usp=sharing"&gt;
+&lt;/section&gt;</t>
+<t tx="LEO.20210421222537.1">&lt;section&gt;
+       &lt;p&gt;繪製皮帶
+              &lt;/p&gt;
+    &lt;img src="https://drive.google.com/file/d/1MH-p6rQZghVHtY2D_TORytEQEzeEHRTE/view?usp=sharing"&gt;
+&lt;/section&gt;</t>
+<t tx="LEO.20210421222540.1">&lt;section&gt;
+       &lt;p&gt;虎鉗組合完成
+              &lt;/p&gt;
+    &lt;img src="https://drive.google.com/file/d/1oi5QOt29WlMoLJq-A3zXXA89hLo_sOj5/view?usp=sharing"&gt;
+&lt;/section&gt;</t>
+<t tx="LEO.20210421223333.1">&lt;section&gt;
+       &lt;p&gt;砂帶機與虎鉗組合
+              &lt;/p&gt;
+    &lt;img src="https://drive.google.com/file/d/1rgpu3a1Fz9--DwV6W5CYG-HU9kAl9JBU/view?usp=sharing"&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
@@ -251,19 +307,15 @@ vertical: body pane on the botton</t>
     &lt;p&gt;繪製砂帶機底座
     &lt;/p&gt;
     &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%BE%85%E6%A9%9F%E5%BA%95%E5%BA%A7%E5%B9%B3%E9%9D%A2.jpg"&gt;
-     &lt;p&gt;繪製砂帶機支架
-        &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF.jpg"&gt;
-      &lt;p&gt;繪製支架滾輪孔位
-              &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF%E5%81%9A%E5%AD%942.jpg"&gt;
+  
+   
       
      
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
-     @others
+     W8進度
 &lt;/section&gt;
 
 </t>
