@@ -319,37 +319,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
+<t tx="leo.20200818171215.1">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+     &lt;p&gt;40823128:這次是第二次的分組專案我們想了一個新的主題，不過在設想題目時考慮的太少導致在繪製零件圖時遇到很多困難也讓後續的coppeliasim無法模擬完成
+      &lt;p&gt;40823126:這次是這學期第二次分組 這次我們選擇更改主題 改作自動砂帶機  雖然圖有成功畫出 但是因為零件不夠周全 導致Coppeliasim沒有辦法模擬出來 還需要更注意一些細節 讓Coppeliasim運作的更順利
 &lt;/section&gt;
 
 </t>
