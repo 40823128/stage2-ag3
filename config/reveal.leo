@@ -88,12 +88,12 @@
 <t tx="LEO.20210421215223.1">&lt;section&gt;
        &lt;p&gt;繪製砂帶機支架
         &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF.jpg"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421215357.1">&lt;section&gt;
        &lt;p&gt;繪製支架滾輪孔位
               &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF%E5%81%9A%E5%AD%942.jpg"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E5%B9%B3%E6%9D%BF%E5%81%9A%E5%AD%942.jpg?raw=true"&gt;
 &lt;/section&gt;</t>
 <t tx="LEO.20210421215459.1">&lt;section&gt;
        &lt;p&gt;繪製虎鉗底座下層
@@ -108,13 +108,13 @@
 <t tx="LEO.20210421220905.1">&lt;section&gt;
        &lt;p&gt;繪製砂帶機之滾輪
     &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E6%BB%BE%E8%BC%AA.jpg"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E7%A0%82%E5%B8%B6%E6%A9%9F%E6%BB%BE%E8%BC%AA.jpg?raw=true"&gt;
   
 &lt;/section&gt;</t>
 <t tx="LEO.20210421221016.1">&lt;section&gt;
        &lt;p&gt;砂帶機支架完成
     &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/2.0.jpg"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/2.0.jpg?raw=true"&gt;
   
 &lt;/section&gt;</t>
 <t tx="LEO.20210421222531.1">&lt;section&gt;
