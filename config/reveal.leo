@@ -306,7 +306,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;W7進度&lt;/h2&gt;
     &lt;p&gt;繪製砂帶機底座
     &lt;/p&gt;
-    &lt;img src="https://localhost:9443/images/%E7%A0%82%E5%BE%85%E6%A9%9F%E5%BA%95%E5%BA%A7%E5%B9%B3%E9%9D%A2.jpg"&gt;
+    &lt;img src="https://github.com/40823128/stage2-ag3/blob/main/images/%E7%A0%82%E5%BE%85%E6%A9%9F%E5%BA%95%E5%BA%A7%E5%B9%B3%E9%9D%A2.jpg?raw=true"&gt;
   
    
       
